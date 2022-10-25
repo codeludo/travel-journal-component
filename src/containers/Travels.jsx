@@ -8,6 +8,8 @@ const Travels = () => {
         <div className="travels">
             <Header />
             <Card />
+            <Card />
+            <Card />
         </div>
     )
 }
