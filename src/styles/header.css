@@ -1,0 +1,27 @@
+.header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    gap: 8px;
+	background-color: var(--sunset-orange);
+	height: 55px;
+	width: 550px;
+}
+
+.header img {
+	height: 24px;
+	width: 24px;
+}
+
+.title {
+    color: white;
+	height: 16px;
+	width: 109px;
+	font-family: Inter;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 18px;
+	letter-spacing: -0.075em;
+	text-align: left;
+}
+

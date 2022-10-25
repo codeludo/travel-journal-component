@@ -1,0 +1,23 @@
+:root {
+    --platinum: #E5E5E5;
+    --sunset-orange: #F55A5A;
+}
+
+
+* {
+    box-sizing:border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    background: var(--platinum);
+}
+
