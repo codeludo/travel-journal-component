@@ -1,6 +1,7 @@
 .travels {
 	display: flex;
 	flex-direction: column;
+	gap: 1px;
 	position: inherit;
     margin: 0;
 	width: 550px;

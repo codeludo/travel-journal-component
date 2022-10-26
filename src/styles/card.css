@@ -3,21 +3,24 @@
 	justify-content: center;
 	align-items: center;
 	background-color: white;
-	height: 238px;
+	height: auto;
 	box-shadow: 0 1px 1px var(--platinum);
 	margin: 0;
-	padding: 0;
+	padding: 12px 0;
 }
 
 .card {
 	gap: 20px;
 	display: flex;
-	height: 168px;
+	align-items: flex-start;
+	height: auto;
 	width: 470px;
 }
 
-.card img {
+.travel-img {
 	object-fit: cover;
-	border-radius: 4px;
+	height: 168px;
+	width: 125px;
+	border-radius: 5px;
 }
 
